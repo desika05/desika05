@@ -14,5 +14,6 @@ Myself,Desika.Pursuing prefinal year of B.E in the department of Electronics and
 
 ## 📫 How to reach me
 - Email: desisaravanan1508@gmail.com
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/desika-s-167a80230
+
 ## 📊 GitHub Stats
