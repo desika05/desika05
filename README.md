@@ -9,11 +9,11 @@ Myself,Desika.Pursuing prefinal year of B.E in the department of Electronics and
 - Tools: Git,AWS
 
 ## 🔭 Projects
-- [Project 1]: Brief description
-- [Project 2]: Brief description
+- **Project - Expense Tracker application**
+  Also known as expense manager and money manager, an expense tracker is a software or application that helps to keep an accurate record of your money inflow and outflow.The Expense Tracker Project aims to provide a user-friendly solution for tracking expenses, categorizing spending, and gaining insights into financial habits Many people in our country live on a fixed income, and they find that towards the end of the month they don't have sufficient money to meet their needs.
 
 ## 📫 How to reach me
 - Email: desisaravanan1508@gmail.com
 - LinkedIn: www.linkedin.com/in/desika-s-167a80230
 
-## 📊 GitHub Stats
+
